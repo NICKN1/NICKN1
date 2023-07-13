@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @NICKN1
-- 👀 I’m interested in to start my career on technology
-- 🌱 I'm currently learning Web Full Stack in .NET on Digital House
-- 💞️ I’m looking to collaborate my classmates
 - 📫 How to reach me - linkedin: https://www.linkedin.com/in/jos%C3%A9-iranildo-399502186/
 
 <!---
